@@ -1,4 +1,5 @@
 <!-- Script lat3.php -->
+
 <!-- Menampilkan Array dengan foreach -->
 
 <?php 

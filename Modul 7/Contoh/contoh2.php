@@ -1,16 +1,16 @@
 <?php
 $i=2;
 while($i<=8){
-echo $i. "<br>";
-$i=$i+2;
+    echo $i. "<br>";
+    $i=$i+2;
 }
 ?>
 <br></b>
 <?php
 $i=2;
 while($i<=8){
-echo $i. "<br>";
-$i=$i*2;
+    echo $i. "<br>";
+    $i=$i*2;
 }
 ?>
 
@@ -18,8 +18,8 @@ $i=$i*2;
 <?php
 $i=2;
 while($i<=16){
-echo $i. "<br>";
-$i=$i*$i;
+    echo $i. "<br>";
+    $i=$i*$i;
 }
 ?>
 
@@ -27,7 +27,7 @@ $i=$i*$i;
 <?php
 $i=2;
 while($i<=8){
-echo $i. "<br>";
-$i=$i*$i+1/2;
+    echo $i. "<br>";
+    $i=$i*$i+1/2;
 }
 ?>

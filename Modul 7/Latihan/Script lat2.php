@@ -9,8 +9,8 @@ program
  }
  }
  if($prima) {
- echo "$n merupakan bilangan prima";
+    echo "$n merupakan bilangan prima";
  } else {
- echo "$n bukan bilangan prima";
+    echo "$n bukan bilangan prima";
  }
 ?>
